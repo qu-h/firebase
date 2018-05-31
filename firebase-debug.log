@@ -1,0 +1,40 @@
+[debug] [2018-05-31T09:26:19.187Z] ----------------------------------------------------------------------
+[debug] [2018-05-31T09:26:19.240Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\QuanICT\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] [2018-05-31T09:26:19.241Z] CLI Version:   3.18.5
+[debug] [2018-05-31T09:26:19.241Z] Platform:      win32
+[debug] [2018-05-31T09:26:19.241Z] Node Version:  v8.11.2
+[debug] [2018-05-31T09:26:19.242Z] Time:          Thu May 31 2018 16:26:19 GMT+0700 (SE Asia Standard Time)
+[debug] [2018-05-31T09:26:19.242Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-05-31T09:26:19.286Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-05-31T09:26:19.286Z] > authorizing via signed-in user
+[debug] [2018-05-31T09:26:19.286Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/japanese-learning-161000  
+  
+ Thu May 31 2018 16:26:19 GMT+0700 (SE Asia Standard Time)
+[debug] [2018-05-31T09:26:20.377Z] <<< HTTP RESPONSE 200
+[debug] [2018-05-31T09:26:20.378Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/japanese-learning-161000/tokens  
+  
+ Thu May 31 2018 16:26:20 GMT+0700 (SE Asia Standard Time)
+[debug] [2018-05-31T09:26:21.141Z] <<< HTTP RESPONSE 200
+[debug] [2018-05-31T09:26:21.143Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/japanese-learning-161000  
+  
+ Thu May 31 2018 16:26:21 GMT+0700 (SE Asia Standard Time)
+[debug] [2018-05-31T09:26:22.275Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from 'E:\com.giaiphapict\firebase'...
+[info] 
+[info] i  functions: Preparing to emulate functions.
+[debug] [2018-05-31T09:26:25.379Z] Fetching environment
+[debug] [2018-05-31T09:26:25.390Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/538669349670:getServerAppConfig  
+  
+ Thu May 31 2018 16:26:25 GMT+0700 (SE Asia Standard Time)
+[debug] [2018-05-31T09:26:25.392Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/538669349670/clients/_:getWebAppConfig  
+  
+ Thu May 31 2018 16:26:25 GMT+0700 (SE Asia Standard Time)
+[debug] [2018-05-31T09:26:26.086Z] <<< HTTP RESPONSE 200
+[debug] [2018-05-31T09:26:26.087Z] Starting @google-cloud/functions-emulator
+[debug] [2018-05-31T09:26:26.240Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: public
+[info] +  hosting: Local server: http://localhost:5000
+
+[debug] [2018-05-31T09:26:33.649Z] Parsing function triggers
