@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/firebase.iml" filepath="$PROJECT_DIR$/.idea/firebase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../firebase-sample/.idea/firebase-sample.iml" filepath="$PROJECT_DIR$/../firebase-sample/.idea/firebase-sample.iml" />
     </modules>
   </component>
 </project>

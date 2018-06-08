@@ -10,8 +10,11 @@
     "logs": "firebase functions:log"
   },
   "dependencies": {
+    "@google-cloud/translate": "^1.1.0",
+    "firebase": "^5.0.4",
     "firebase-admin": "~5.12.1",
-    "firebase-functions": "^1.0.3"
+    "firebase-functions": "^1.0.4",
+    "google-cloud": "^0.57.0"
   },
   "devDependencies": {
     "eslint": "^4.12.0",
